@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+.head{
+    font-size: 30px;
+    padding-left: 8%;
+    color: white;
+    font-family: sans-serif;
+}
+.amen{
+    color: rgb(12, 91, 122);
+    padding-left: 40px;
+}
+.header{
+    margin-top: auto;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.melin{
+    color: (208, 204, 204);
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+.img{
+    padding-left: 5px;
+}
+.demo{
+    margin: 50px;
+    max-width: 350px;
+    margin-bottom: 700px;
+    float: right;
+    font-family: serif;
+    margin-right: 200px;
+    color: white;
+
+}
+.demo p a{
+    color: rgb(12, 91, 122);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+ul{
+    color: forestgreen;
+    font-size: 16px;
+    padding: 4px;
+}
+.btn button{
+    background-color: cadetblue;
+    padding-right: 20px;
+    margin-left: 10px;
+    border-radius: 40px;
+    height: 50px;
+    font-size: 25px;
+}
+.atech{
+    color: white;
+    font-size: 20px;
+}
+.iconbars{
+    background-color: white;
+    color: black;
+}
+.mega{
+    color: white;
+    float: right;
+    margin-top: 300px;
+}
+.act{
+    background-color: cadetblue;
+    color: #ffffff;
+    margin-top: 450px;
+    text-align: center;
+    padding-left: 40%;
+}
